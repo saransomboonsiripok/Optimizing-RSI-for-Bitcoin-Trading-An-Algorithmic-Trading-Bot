@@ -1,0 +1,2 @@
+# Optimizing-RSI-for-Bitcoin-Trading-An-Algorithmic-Trading-Bot
+This project, part of QF635 at Singapore Management University under Prof. Nicholas Liew, optimizes RSI for Bitcoin trading. It includes backtesting, dynamic RSI thresholds, and an automated trading bot connected to Binance Testnet. The bot uses optimized RSI and SMA filters, with performance evaluated through Sharpe ratio and drawdown analysis.
